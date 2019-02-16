@@ -1,0 +1,15 @@
+{
+  "name": "server-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Bruno Scrok Brunoro (bruno.sbrunoro@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.2.9"
+  }
+}
